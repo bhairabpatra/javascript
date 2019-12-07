@@ -1,8 +1,8 @@
 var person={
 
-   display: function() {
+   display: function(a) {
 
-        return this.fname + " " + this.lname;
+        return this.fname + " " + this.lname + " " + a;
         
     }
 }
@@ -13,4 +13,4 @@ var person1={
 }
 
 var obj = person.display.call(person1);
-console.log(obj);
+console.log(obj,1,2,3);
