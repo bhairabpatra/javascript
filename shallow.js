@@ -10,3 +10,4 @@ obj2.name="swapna"
 console.log(obj1)
 console.log(obj2)
 
+console.log("byyyyyyyyyyyyyyyyyyyyy")
