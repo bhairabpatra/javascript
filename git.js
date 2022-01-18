@@ -12,4 +12,3 @@ display.prototype.fullname = function(){
 
 obj = new display("bbhairab" , "patra");
 console.log(obj.fullname());
-console.log("Hai")
