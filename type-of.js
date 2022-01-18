@@ -11,3 +11,5 @@ console.log(typeof(obj=[]))
 // function
 // object
 // object
+
+console.log("hhhhhhhhhhhhhhhh")
